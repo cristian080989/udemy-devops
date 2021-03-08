@@ -1,7 +1,7 @@
 # prueba tecnica microservicios spring boot
 
 > Atendiendo el reto Code Challenge 
-> Se desarrolla un microservicio en spring boot usuando buenas practicas de diseño y codificaion, 
+> Se desarrolla un microservicio en sprinssssg boot usuando buenas practicas de diseño y codificaion, 
 > como los principios SOLID el enfoque ATDD y diferentes frameworks y librerias para optimizar el trabajo. 
 > Asi como la implementación de comunicación asincrona
 
